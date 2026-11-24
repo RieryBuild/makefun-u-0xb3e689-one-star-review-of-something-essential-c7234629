@@ -1,3 +1,5 @@
+"""The fridge never asked for my socks, yet gravity keeps delivering them there."""
+
 import os
 
 REVIEW = "One star. Gravity puts everything I drop under the fridge, including things the fridge did not need."
